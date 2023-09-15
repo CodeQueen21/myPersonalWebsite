@@ -1,1 +1,1 @@
-# myPersonalWebsite
+This project is my personal site where I introduce myself and show off some of my projects! I hope you enjoy!
