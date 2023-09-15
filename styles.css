@@ -46,3 +46,22 @@ footer ul li {
    text-decoration: none;
    display: block; 
 }
+
+#aboutMe {
+    text-align: center;
+}
+
+#aboutMe h1 {
+    color: white;
+    margin: 50px 0 50px 25px;
+}
+
+.img {
+    margin: 0 auto;
+}
+
+#aboutMe img {
+   height: 250px;
+   width: 200px;
+   box-shadow: 10px 10px 5px rgb(62, 62, 62);
+}
