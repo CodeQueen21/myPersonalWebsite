@@ -35,6 +35,11 @@ nav li:hover {
     color: white;
 }
 
+.quote {
+    margin: 100px 0 0 0;
+    font-size: 20px;
+}
+
 footer {
     background-color: aliceblue;
     width: 100%;
