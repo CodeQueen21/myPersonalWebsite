@@ -102,6 +102,11 @@ footer ul li {
     flex-shrink: 1;
 }
 
+.item:hover {
+    background-color: rgb(114, 127, 188);
+    cursor: pointer;
+}
+
 .item .img {
     display: flex;
     justify-content: center;
