@@ -199,6 +199,16 @@ textarea.vertical {
     text-align: center;
   }
 
+  .confirmation {
+   margin-top: 30%;
+    
+    justify-content: center;
+  }
+
+  .confirmation h1  {
+    text-align: center;
+  }
+
 @media (max-width: 480px) {
     nav {
         display: flex;
